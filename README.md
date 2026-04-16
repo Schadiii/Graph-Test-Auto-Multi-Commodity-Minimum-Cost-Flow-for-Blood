@@ -8,4 +8,4 @@ This study develops a Multi-Commodity Minimum-Cost Flow model to optimize the di
 
 ## How to use
 
-run 'blood_distribution.py' using your desired compiler.
+run `blood_distribution.py` using your desired compiler.
